@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Patrick is turning 30!</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Patrick is turning 30!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/patrick/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/patrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Save the Date</title>
+      <link>/home/save_the_date/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/save_the_date/</guid>
+      <description>OCTOBER 26-28</description>
+    </item>
+    
+    <item>
+      <title>Where to stay</title>
+      <link>/home/accommodations/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/accommodations/</guid>
+      <description>Out of town friends, we are SO EXCITED to see you all! We&amp;rsquo;d love to have you for the weekend! As it gets closer, we&amp;rsquo;ll post more info scheduled activities for the whole time, but for now here are some accommodation suggestions for October 26-28th.
+ Alexis Inn &amp;amp; Suites: This is by the airport (about 10 / 15 minutes from downtown). Currently showing rates: $134.50 / night for 2 queen beds.</description>
+    </item>
+    
+    <item>
+      <title>Details</title>
+      <link>/home/details/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/details/</guid>
+      <description>More to come&amp;hellip;🎉🍻</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/rsvp/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/rsvp/</guid>
+      <description>RSVP here!</description>
+    </item>
+    
+  </channel>
+</rss>
