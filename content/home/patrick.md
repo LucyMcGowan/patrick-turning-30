@@ -15,7 +15,7 @@ weight = 1
 
 +++
 <center>
-![](img/patrick.jpg)
-
 ![](img/cheers.png)
+
+![](img/patrick.jpg)
 </center>

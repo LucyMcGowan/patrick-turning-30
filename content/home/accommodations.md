@@ -15,7 +15,7 @@ weight = 3
 
 +++
 
-Out of town friends, we are SO EXCITED to see you all! We'd love to have you for the weekend! As it gets closer, we'll [post more](#details) info scheduled activities for the whole time, but for now here are some accommodation suggestions for October 26-28th.
+Out of town friends, we are SO EXCITED to see you all! As it gets closer, we'll [post more](#details) info about scheduled activities for the whole time, but for now here are some accommodation suggestions for October 26-28th.
 
 
 * [Alexis Inn & Suites](https://www.alexisinn.com): This is by the airport (about 10 / 15 minutes from downtown). Currently showing rates: **$134.50** / night for 2 queen beds.
