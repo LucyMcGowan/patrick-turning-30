@@ -11,7 +11,7 @@ title = ""
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 6
+weight = 1
 
 +++
 
