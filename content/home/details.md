@@ -15,4 +15,19 @@ weight = 4
 
 +++
 
-More to come...🎉🍻
+<center>
+
+Join us to celebrate Patrick  
+at **Tennessee Brew Works**
+
+October 27th  
+Drinks at 5PM  
+Dinner served at 6PM
+
+[RSVP](#rsvp) by October 8th
+
+_Tennessee Brew Works_  
+809 Ewing Ave  
+Nashville, TN 37203  
+[www.tnbrew.com](https://www.tnbrew.com)
+</center>
